@@ -12,8 +12,8 @@
 
 <h3 align="left">What I do: </h3>
 
-Web Automation  
-API Automation  
+- Web Automation  
+- API Automation  
 
 ### My manual testing technology stack
 <div align="left">
