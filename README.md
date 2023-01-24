@@ -22,3 +22,14 @@
 <div align="left">
   <img src="https://github.com/elf-elf/elf-elf/blob/main/Auto.png" />
 </div>
+
+### My latest project:
+#### Ui tests:
+##### - Project with autotests for the site:[ demoqa.com](https://github.com/Artem-Alexandrov-QA/demoqa-AllureAndJenkins-tests)
+
+
+### :email:	Connect with me:
++ [Telegram](https://t.me/artemalexandrov09)
++ Email: artemaleksandrov2676@gmail.com
+
+_Thank you for your attention_
