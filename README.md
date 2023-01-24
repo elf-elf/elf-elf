@@ -3,7 +3,7 @@
   <img src="https://github.com/elf-elf/elf-elf/blob/main/Group%201%20(1).png" width="1130" height="88"/>
 </div>
 
-### :man_technologist: About me:
+### About me:
 - :large_blue_diamond: I have over **2 years experience in QA**
 - :large_blue_diamond: I worked on different projects: **Web, Mobile, Desktop** as a manual QA and **Web(UI+API)** as a automation QA
 - :large_blue_diamond: Currently I am employed by [SimbirSoft LLC company](https://www.simbirsoft.com/en/), which creates custom software. 
