@@ -15,7 +15,7 @@
 
 ### My manual testing technology stack
 <div align="left">
-  <img src="https://github.com/elf-elf/elf-elf/blob/main/Group%203.png" />
+  <img src="https://github.com/elf-elf/elf-elf/blob/main/Manual.png" />
 </div>
 
 ### My test automation technology stack
