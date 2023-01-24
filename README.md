@@ -1,4 +1,4 @@
-
+![Profile View Counter](https://komarev.com/ghpvc/?username=Artem-Alexandrov-QA)
 <div align="center">
   <img src="https://github.com/elf-elf/elf-elf/blob/main/header.png" />
 </div>
