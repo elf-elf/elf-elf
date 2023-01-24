@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/elf-elf/elf-elf/blob/main/Group%201%20(1).png" />
+  <img src="https://github.com/elf-elf/elf-elf/blob/main/header.png" />
 </div>
 
 ### About me:
@@ -15,12 +15,12 @@
 
 ### My manual testing technology stack
 <div align="left">
-  <img src="https://github.com/elf-elf/elf-elf/blob/main/Manual_1.png" />
+  <img src="https://github.com/elf-elf/elf-elf/blob/main/Manual_black.png" />
 </div>
 
 ### My test automation technology stack
 <div align="left">
-  <img src="https://github.com/elf-elf/elf-elf/blob/main/Auto.png" />
+  <img src="https://github.com/elf-elf/elf-elf/blob/main/Auto_black.png" />
 </div>
 
 ### My latest project
