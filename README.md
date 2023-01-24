@@ -11,8 +11,8 @@
   🔳 Know about my experience - you can **request me for CV** by email/telegram  
 
 <h3 align="left">What I do: </h3>
-💻&nbsp;Web Automation
-🌐&nbsp;API Automation
+Web Automation  
+API Automation  
 
 ### My manual testing technology stack
 <div align="left">
