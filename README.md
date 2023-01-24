@@ -12,3 +12,13 @@
 <h3 align="left">What I do: </h3>
 💻&nbsp;Web Automation
 🌐&nbsp;API Automation
+
+### My manual testing technology stack
+<div align="left">
+  <img src="https://github.com/elf-elf/elf-elf/blob/main/Group%203.png" />
+</div>
+
+### My test automation technology stack
+<div align="left">
+  <img src="https://github.com/elf-elf/elf-elf/blob/main/Group%202.png" />
+</div>
