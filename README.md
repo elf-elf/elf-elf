@@ -27,8 +27,8 @@
 #### Ui tests:
 ##### - Project with autotests for the site:[ demoqa.com](https://github.com/Artem-Alexandrov-QA/demoqa-AllureAndJenkins-tests)
 
-### :incoming_envelope:	Connect with me:
-+ [Telegram](https://t.me/artemalexandrov09)
-+ Email: artemaleksandrov2676@gmail.com
+### Connect with me:
++ :large_blue_diamond: [Telegram](https://t.me/artemalexandrov09)
++ :large_blue_diamond: Email: artemaleksandrov2676@gmail.com
 
 _Thank you for your attention_
