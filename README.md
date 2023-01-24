@@ -5,7 +5,7 @@
 
 ### About me:
 
-⋅⋅⋅ 🔲 I have over **2 years experience in QA**..
+  🔲 I have over **2 years experience in QA**
 - ⚫ I worked on different projects: **Web, Mobile, Desktop** as a manual QA and **Web(UI+API)** as a automation QA
 - 🔳 Currently I am employed by [SimbirSoft LLC company](https://www.simbirsoft.com/en/), which creates custom software. 
 - 🔷 Know about my experience - you can **request me for CV** by email/telegram
