@@ -33,4 +33,9 @@
 - [Telegram](https://t.me/artemalexandrov09)
 - Email: artemaleksandrov2676@gmail.com
 
-_Thank you for your attention_
+<div align="left">
+  <img src="https://github.com/elf-elf/elf-elf/blob/main/footer.png" />
+</div>
+
+
+
