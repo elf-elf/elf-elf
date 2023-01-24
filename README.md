@@ -20,5 +20,5 @@
 
 ### My test automation technology stack
 <div align="left">
-  <img src="https://github.com/elf-elf/elf-elf/blob/main/Auto.png" />
+  <https://github.com/elf-elf/elf-elf/blob/main/Auto.png" />
 </div>
