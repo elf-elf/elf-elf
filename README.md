@@ -7,7 +7,7 @@
 - 🔲 I have over **2 years experience in QA**
 - ⚫ I worked on different projects: **Web, Mobile, Desktop** as a manual QA and **Web(UI+API)** as a automation QA
 - 🔳 Currently I am employed by [SimbirSoft LLC company](https://www.simbirsoft.com/en/), which creates custom software. 
-- 🔲 Know about my experience - you can **request me for CV** by email/telegram
+- 🔷 Know about my experience - you can **request me for CV** by email/telegram
 
 <h3 align="left">What I do: </h3>
 💻&nbsp;Web Automation
