@@ -4,6 +4,7 @@
 </div>
 
 ### About me:
+
 :large_blue_diamond: I have over **2 years experience in QA**
 :large_blue_diamond: I worked on different projects: **Web, Mobile, Desktop** as a manual QA and **Web(UI+API)** as a automation QA
 :large_blue_diamond: Currently I am employed by [SimbirSoft LLC company](https://www.simbirsoft.com/en/), which creates custom software. 
