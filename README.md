@@ -27,7 +27,7 @@
 
 ### My latest project
 #### Ui tests:
-##### - Project with autotests for the site:[ demoqa.com](https://github.com/Artem-Alexandrov-QA/demoqa-AllureAndJenkins-tests)
+- Project with autotests for the site:[ demoqa.com](https://github.com/Artem-Alexandrov-QA/demoqa-AllureAndJenkins-tests)
 
 ### Connect with me:
 - [Telegram](https://t.me/artemalexandrov09)
