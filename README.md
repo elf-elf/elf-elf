@@ -5,7 +5,6 @@
 
 ### About me:
 
-
    ☁️ I have an analytical mindset.
    ☁️ I like to solve complex and non-standard tasks.
    ☁️ I strive to streamline and optimize the surrounding processes.
