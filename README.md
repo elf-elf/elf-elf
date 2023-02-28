@@ -1,15 +1,17 @@
-![Profile View Counter](https://komarev.com/ghpvc/?username=Artem-Alexandrov-QA&color=161B22)
+![Profile View Counter](https://komarev.com/ghpvc/?username=elf-elf&color=161B22)
 <div align="center">
   <img src="https://github.com/elf-elf/elf-elf/blob/main/my_header_.png" />
 </div>
 
 ### About me:
 
-  🔳 I have over **2 years experience in QA**  
-  🔳 I worked on different projects: **Web, Mobile, Desktop** as a manual QA and **Web(UI+API)** as a automation QA  
-  🔳 Currently I am employed by [SimbirSoft LLC company](https://www.simbirsoft.com/en/), which creates custom software.   
-  🔳 Know about my experience - you can **request me for CV** by email/telegram  
-
+   ☁️ I have an analytical mindset.
+   ☁️ I like to solve complex and non-standard tasks.
+   ☁️ I strive to streamline and optimize the surrounding processes.
+   ☁️ I worked on different **Web-projects** as a manual QA and **Web(UI+API)** as a automation QA  
+   ☁️ Know about my experience - you can **request me for CV** by email/telegram  
+  
+    
 <h3 align="left">What I do: </h3>
 
 - Web Automation  
