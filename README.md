@@ -1,6 +1,6 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Artem-Alexandrov-QA&color=161B22)
 <div align="center">
-  <img src="https://github.com/elf-elf/elf-elf/blob/main/my_header.png" />
+  <img src="https://github.com/elf-elf/elf-elf/blob/main/my_header_.png" />
 </div>
 
 ### About me:
