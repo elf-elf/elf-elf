@@ -32,7 +32,7 @@
 - Project with autotests for the site:[ demoqa.com](https://github.com/Artem-Alexandrov-QA/demoqa-AllureAndJenkins-tests)
 
 ### Connect with me:
-- [Telegram](https://t.me/artemalexandrov09)
+- [Telegram](https://t.me/EA_Elena_Alexandrova)
 - Email: artemaleksandrov2676@gmail.com
 
 <div align="left">
