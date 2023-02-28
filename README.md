@@ -33,7 +33,7 @@
 
 ### Connect with me:
 - [Telegram](https://t.me/EA_Elena_Alexandrova)
-- Email: artemaleksandrov2676@gmail.com
+- Email: vasenkinalena@gmail.com
 
 <div align="left">
   <img src="https://github.com/elf-elf/elf-elf/blob/main/footer.png" />
