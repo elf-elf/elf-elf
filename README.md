@@ -29,7 +29,7 @@
 
 ### My latest project
 #### Ui tests:
-- Project with autotests for the site:[kontur.ru](https://github.com/elf-elf/KonturUiTests)
+- Project with autotests for the site: [kontur.ru](https://github.com/elf-elf/KonturUiTests)
 
 ### Connect with me:
 - [Telegram](https://t.me/EA_Elena_Alexandrova)
