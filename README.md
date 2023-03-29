@@ -30,6 +30,8 @@
 ### My latest project
 #### Ui tests:
 - Project with autotests for the site: [kontur.ru](https://github.com/elf-elf/KonturUiTests)
+#### API tests:
+- Project with autotests for the site: [demowebshop.com](https://demowebshop.tricentis.com/)
 
 ### Connect with me:
 - [Telegram](https://t.me/EA_Elena_Alexandrova)
